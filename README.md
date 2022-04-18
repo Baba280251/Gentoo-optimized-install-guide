@@ -116,6 +116,8 @@ Now this is the end of [Phase 2](#phase-2-mouting-and-setup). We can go to Phase
 ## Phase 3
 ***TO BE CONTINUED... Phase 3 and 4 are under experimentation. Bulletproof methodes are not possible, although some startigies can be applied for a usable system. soon enough i'll be able to make a gentoo system that works with musl libc and clang. I hope i can get these phases finished before summer. or if i can't then next year when Musl Libc gentoo is stable. Please be patient...***
 
+***Testing for Phase 3 and 4 failed. Project halted until further notice :(***
+
 ## FAQ
 **1. Why put the EFI partition first?**
 Because the EFI partition is a common partition between different linux distros, so it doesn't need to change according to the distro.
